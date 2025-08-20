@@ -1,18 +1,17 @@
 ---
-name: Prabin Thakur 
-subname: 邹笑寒
+name: Prabin Thakur
 avatarFront: /img/avatar.jpg
 avatarBack: /img/me.jpg
-tltr: I do machine learning by day and build things for the web by night.
+tltr: Deep Down the AI Rabbit Hole | Data Science undegrad | MLOPS
 socials:
   - icon: i-academicons:cv
     link: /files/cv/en.pdf
   - icon: "i-ion:mail-outline"
-    link: "mailto:renovamenzxh@gmail.com"
+    link: "mailto:prabinthakur0101@gmail.com"
   - icon: i-eva:github-outline
-    link: https://github.com/Renovamen
+    link: https://github.com/renovamen1
   - icon: i-radix-icons:linkedin-logo
-    link: https://www.linkedin.com/in/xiaohan-zou
+    link: https://www.linkedin.com/in/prabin-thakur-951773321/
   - icon: i-academicons:google-scholar
     link: https://scholar.google.com/citations?user=RuW6xgMAAAAJ
   - icon: i-carbon:logo-x
@@ -30,9 +29,8 @@ socials:
 
 ## Bio
 
-I am a Ph.D. student in the [Computer Science and Engineering](https://www.eecs.psu.edu/) department at [Pennsylvania State University](https://www.psu.edu/) advised by Prof. [George Kesidis](https://www.cse.psu.edu/~gik2/) and Prof. [Lu Lin](https://louise-lulin.github.io/). My current research focuses on trustworthiness and reliability in multimodal foundation models.
+I am a Data science undergraduate in the school of [Computer Science and Application](www.inspiria.edu.in) department at [MAKAUT](https://www.psu.edu/). My current work  focuses and reliability in multimodal foundation models.
 
-Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/). I also interned at Kuaishou.
 
 By the way, take a look at [some things](/projects) I've built as a web developer, featuring [ohmycv.app](https://ohmycv.app) - a sleek, in-browser, privacy-first Markdown resume builder.
 
