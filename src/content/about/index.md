@@ -29,7 +29,7 @@ socials:
 
 ## Bio
 
-I am a Data science undergraduate in the school of [Computer Science and Application](https://inspiria.edu.in/degree-courses/school-of-computer-science/) department at [MAKAUT](https://makautwb.ac.in/). My current work  focuses and reliability in multimodal foundation models.
+I am a Data science undergraduate in the school of [Computer Science and Application](https://inspiria.edu.in/degree-courses/school-of-computer-science/) at [MAKAUT](https://makautwb.ac.in/). My current work  focuses and reliability in multimodal foundation models.
 
 
 By the way, take a look at [some things](/projects) I've built as a web developer, featuring [ohmycv.app](https://ohmycv.app) - a sleek, in-browser, privacy-first Markdown resume builder.
