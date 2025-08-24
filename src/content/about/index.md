@@ -27,10 +27,10 @@ socials:
 
 ## Bio
 
-I am a Data science undergraduate in the school of [Computer Science and Application](https://inspiria.edu.in/degree-courses/school-of-computer-science/) at [MAKAUT](https://makautwb.ac.in/). My current work  focuses and reliability in multimodal foundation models.
+I am a Data science undergraduate in the school of [Computer Science and Application](https://inspiria.edu.in/degree-courses/school-of-computer-science/) at [MAKAUT](https://makautwb.ac.in/). My current work  focuses on AI solutions for inventory,agriculture and services management. Generative AI and Agents are the other domains where i am side-kicking experiments, projects ,tools and research.
 
 
-By the way, take a look at [some things](/projects) I've built as DS undergard and developer, featuring my [interactive portfolio ](https://portfolio.prabin.me) - a macos themed interactive portfolio showcasing my works and skills.
+By the way, take a look at [some things](/projects) I've built as DS undergard and developer, first featuring my [interactive portfolio ](https://portfolio.prabin.me) - a macos themed interactive portfolio showcasing my works and skills.
 
 
 ## Miscellaneous

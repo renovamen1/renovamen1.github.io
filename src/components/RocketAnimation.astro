@@ -1,0 +1,48 @@
+---
+// No props needed for this simple animation
+---
+
+<div id="rocket-animation" style="position: absolute; top: 2rem; right: 2rem; z-index: 50; width: 80px; height: 120px;">
+  <svg viewBox="0 0 80 120" width="80" height="120">
+    <g id="rocket-body">
+      <rect x="35" y="30" width="10" height="40" rx="5" fill="#e0e0e0" />
+      <ellipse cx="40" cy="30" rx="10" ry="12" fill="#b71c1c" />
+    </g>
+    <g id="rocket-fins">
+      <polygon points="35,70 30,90 40,80" fill="#1976d2" />
+      <polygon points="45,70 50,90 40,80" fill="#1976d2" />
+    </g>
+    <g id="rocket-flame">
+      <polygon points="37,70 40,110 43,70" fill="#ff9800" />
+    </g>
+  </svg>
+</div>
+
+<script>
+import anime from 'animejs';
+if (typeof window !== 'undefined') {
+  window.addEventListener('DOMContentLoaded', () => {
+    anime({
+      targets: '#rocket-body',
+      translateY: [0, -20],
+      duration: 1200,
+      easing: 'easeOutExpo'
+    });
+    anime({
+      targets: '#rocket-fins',
+      rotate: [0, 30],
+      duration: 1000,
+      easing: 'easeOutBack',
+      delay: 400
+    });
+    anime({
+      targets: '#rocket-flame',
+      scaleY: [0, 1.2, 1],
+      opacity: [0, 1],
+      duration: 800,
+      easing: 'easeOutElastic',
+      delay: 800
+    });
+  });
+}
+</script>
