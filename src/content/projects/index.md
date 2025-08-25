@@ -3,14 +3,14 @@ projects:
   Websites / Online Tools:
     - name: Portfolio
       link: https://portfolio.zxh.me
-      desc: A portfolio website simulating macOS's GUI
+      desc: An interactive portfolio website simulating macOS's GUI
       icon: i-ic:twotone-laptop-mac
       tech:
         - i-logos:preact
         - i-logos:typescript-icon
         - i-logos:unocss
         - i-logos:vitejs
-      repo: Renovamen/playground-macos
+      repo: renovamen1/macos-portfolio2
     - name: Oh My CV!
       link: https://ohmycv.app
       desc: An in-browser, local-first Markdown resume builder
