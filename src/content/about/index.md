@@ -22,10 +22,6 @@ socials:
   - icon: i-mingcute:dashboard-4-line
     link: https://dashboard.pt.me
     name: Dashboard
-    
-    icon: i-mingcute:dashboard-4-line
-    link: https://huggingface.pt.me
-    name: Huggingface
 ---
 
 
