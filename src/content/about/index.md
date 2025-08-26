@@ -2,7 +2,7 @@
 name: Prabin Thakur
 avatarFront: /img/ip.jpeg
 avatarBack: /img/me.jpg
-tltr: Deep Down the AI Rabbit Hole | Data Science | Agents | MLOPS
+tltr: Lost Deep Down the AI Rabbit Hole | Data Science | Agents | MLOPS
 socials:
   - icon: i-academicons:cv
     link: /files/cv/en.pdf
@@ -22,6 +22,10 @@ socials:
   - icon: i-mingcute:dashboard-4-line
     link: https://dashboard.pt.me
     name: Dashboard
+    
+    icon: i-mingcute:dashboard-4-line
+    link: https://huggingface.pt.me
+    name: Huggingface
 ---
 
 
