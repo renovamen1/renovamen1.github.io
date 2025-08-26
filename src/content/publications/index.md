@@ -1,4 +1,4 @@
-Please also check my [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ).
+Please also check my [Google Scholar](https://scholar.google.com/citations?user=G2HfykEAAAAJ&hl=en&authuser=1).
 
 ## Machine Learning
 
@@ -9,7 +9,7 @@ Please also check my [Google Scholar](https://scholar.google.com/citations?user=
 :::paper[/img/publications/shiftdc.png]
 **Understanding and Rectifying Safety Perception Distortion in VLMs**
 
-<u>Prabin Thakur </u>, Jian Kang, George Kesidis, Lu Lin
+<u>Prabin Thakur </u> , Chadup Tamnag, Aditi Gurung, Deepesh Rai
 
 *Preprint*
 
@@ -20,7 +20,7 @@ Please also check my [Google Scholar](https://scholar.google.com/citations?user=
 :::paper[/img/publications/rebq.png]
 **Reconstruct before Query: Continual Missing Modality Learning with Decomposed Prompt Collaboration**
 
-Shu Zhao, <u>Prabin Thakur </u>, Tan Yu, Huijuan Xu
+ <u>Prabin Thakur </u>, Chadup Tamnag, Aditi Gurung, Deepesh Rai
 
 *Preprint*
 
@@ -30,7 +30,7 @@ Shu Zhao, <u>Prabin Thakur </u>, Tan Yu, Huijuan Xu
 :::paper[/img/publications/tokenflow-1.png /img/publications/tokenflow-2.png]
 **TokenFlow: Rethinking Fine-grained Cross-modal Alignment in Vision-Language Retrieval**
 
-<u>Prabin Thakur </u>, Changqiao Wu, Lele Cheng, Zhongyuan Wang
+<u>Prabin Thakur </u>, Chadup Tamnag, Aditi Gurung, Deepesh Rai
 
 *Preprint*
 
@@ -38,12 +38,12 @@ Shu Zhao, <u>Prabin Thakur </u>, Tan Yu, Huijuan Xu
 :::
 
 
-### Conference Papaers
+### Conference Papers
 
 :::paper[/img/publications/costep.png]
 **Learning Conditional Space-Time Prompt Distributions for Video Class-Incremental Learning**
 
-<u>Prabin Thakur </u>, Shu Zhao, Wenchao Ma
+<u>Prabin Thakur </u>, Deepesh Rai, Chadup Tamanag , Aditi Gurung
 
 *CVPR 2025 (Highlight)*
 
@@ -51,46 +51,4 @@ Shu Zhao, <u>Prabin Thakur </u>, Tan Yu, Huijuan Xu
 :::
 
 :::paper
-**Efficient Meta-Learning for Continual Learning with Taylor Expansion Approximation**
 
-<u>Prabin Thakur </u>, Tong Lin
-
-*IJCNN 2022 (Oral)*
-
-[paper](https://arxiv.org/abs/2210.00713) / [slide](/files/papers/ijcnn2022/slide.pdf)
-:::
-
-:::paper[/img/publications/ictai2020.png]
-**To be an Artist: Automatic Generation on Food Image Aesthetic Captioning**
-
-<u>Prabin Thakur </u>, Cheng Lin, Yinjia Zhang, Qinpei Zhao
-
-*ICTAI 2020 (Oral)*
-
-[paper](https://ieeexplore.ieee.org/document/9288208) / [code](https://github.com/Renovamen/Food-IAC) / [slide](/files/papers/ictai2020/slide.pdf)
-:::
-
-:::paper
-**A Survey on Application of Knowledge Graph**
-
-<u>Prabin Thakur </u>
-
-*CCEAI 2020*
-
-[paper](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016/pdf)
-:::
-
-
-## AI for Education
-
-- **StoryLab: Empowering Personalized Learning for Children through Teacher-Guided Multimodal Story Generation**
-
-  Zhaohui Li, Feiwen Xiao, Jiaju Lin, <u>Prabin Thakur </u>, Qingxiao Zheng, Jinjun Xiong
-
-  *AIED 2025 (Short Paper)*
-
-- **Leveraging an LLM-Enhanced Bilingual Conversational Agent for EFL Children's Dialogic Reading: Insights from Children, Parents, and Educators**
-
-  Feiwen Xiao, Zhaohui Li, Jiaju Lin, <u>Prabin Thakur </u>, Dandan Yang, Wenting Zou, Jinjun Xiong
-
-  *In Submission*
