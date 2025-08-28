@@ -7,9 +7,9 @@ Please also check my [Google Scholar](https://scholar.google.com/citations?user=
 ### Preprints
 
 :::paper[/img/publications/shiftdc.png]
-**Understanding and Rectifying Safety Perception Distortion in VLMs**
+**Fake News Detection using Machine Learning**
 
-<u>Prabin Thakur </u> , Chadup Tamnag, Aditi Gurung, Deepesh Rai
+<u>Prabin Thakur </u> , Chadup Tamnag, Aditi Gurung, Deepesh Rai ,Sushovan Gupta
 
 *Preprint*
 
@@ -18,7 +18,7 @@ Please also check my [Google Scholar](https://scholar.google.com/citations?user=
 
 
 :::paper[/img/publications/rebq.png]
-**Reconstruct before Query: Continual Missing Modality Learning with Decomposed Prompt Collaboration**
+**Lung Cancer Detection using Convolutional Neural Network (CNN)**
 
  <u>Prabin Thakur </u>, Chadup Tamnag, Aditi Gurung, Deepesh Rai
 
@@ -28,7 +28,7 @@ Please also check my [Google Scholar](https://scholar.google.com/citations?user=
 :::
 
 :::paper[/img/publications/tokenflow-1.png /img/publications/tokenflow-2.png]
-**TokenFlow: Rethinking Fine-grained Cross-modal Alignment in Vision-Language Retrieval**
+**Fine-tuning the BERT model for Sentiment Analysis**
 
 <u>Prabin Thakur </u>, Chadup Tamnag, Aditi Gurung, Deepesh Rai
 
@@ -41,11 +41,10 @@ Please also check my [Google Scholar](https://scholar.google.com/citations?user=
 ### Conference Papers
 
 :::paper[/img/publications/costep.png]
-**Learning Conditional Space-Time Prompt Distributions for Video Class-Incremental Learning**
+**Restaurant Review Analysis Using NLP and SQLite**
 
 <u>Prabin Thakur </u>, Deepesh Rai, Chadup Tamanag , Aditi Gurung
 
-*CVPR 2025 (Highlight)*
 
 [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zou_Learning_Conditional_Space-Time_Prompt_Distributions_for_Video_Class-Incremental_Learning_CVPR_2025_paper.html)
 :::

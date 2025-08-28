@@ -3,6 +3,7 @@ import { useScroll } from "solidjs-use";
 import ToggleDark from "@components/ToggleDark";
 import ToggleToc from "@components/ToggleToc";
 
+
 export const Navbar: Component<{
   activePage?: string;
   hasToc?: boolean;

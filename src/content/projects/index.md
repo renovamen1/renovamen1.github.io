@@ -1,6 +1,6 @@
 ---
 projects:
-  Websites / Online Tools:
+  Websites / Tools:
     - name: Portfolio
       link: https://thakurprabin.netlify.app
       desc: An interactive portfolio website simulating macOS's GUI
@@ -11,9 +11,9 @@ projects:
         - i-logos:unocss
         - i-logos:vitejs
       repo: renovamen1/macos-portfolio2
-    - name: Oh My CV!
-      link: https://ohmycv.app
-      desc: An in-browser, local-first Markdown resume builder
+    - name: Movie Rec
+      link: https://netflix.com
+      desc: Movie recommendation based on emotion in Python
       icon: oh-my-cv
       tech:
         - i-logos:nuxt-icon
@@ -96,9 +96,9 @@ projects:
         - i-logos:rollupjs
       repo: renovamen1/minimal-portfolio
   Machine Learning:
-    - name: Flint
+    - name: Detect-v1
       link: https://github.com/renovamen1/minimal-portfolio
-      desc: A toy deep learning framework implemented in Numpy from scratch
+      desc: License Plate Recognition with OpenCV and Tesseract OCR
       icon: i-heroicons-solid:fire
       tech:
         - i-logos:python
@@ -109,16 +109,16 @@ projects:
       desc: Speech emotion recognition implemented in Keras
       icon: i-ph:microphone-bold
       repo: renovamen1/minimal-portfolio
-    - name: torchmasked
+    - name: Watcher
       link: https://github.com/renovamen1/minimal-portfolio
-      desc: Masked tensor operations for PyTorch
+      desc: Human Activity Recognition – Using Deep Learning Model
       icon: i-iconoir:grid-remove
       tech:
         - i-logos:python
         - i-logos:pytorch-icon
-    - name: torchop
+    - name: Breeder
       link: https://github.com/renovamen1/minimal-portfolio
-      desc: Attention / convolution operators
+      desc: Dog Breed Classification using Transfer Learning
       icon: i-uis:web-grid
       tech:
         - i-logos:python
@@ -147,4 +147,4 @@ projects:
       repo: renovamen1/minimal-portfolio
 ---
 
-I'm trying to find a balance between art and engineering.
+ Bro is trying to find a balance between art and engineering.
