@@ -101,6 +101,7 @@ projects:
       link: https://github.com/renovamen1/minimal-portfolio
       desc: License Plate Recognition with OpenCV and Tesseract OCR
       icon: i-heroicons-solid:fire
+      pinned: true
       tech:
         - i-logos:python
         - i-logos:numpy

@@ -39,7 +39,7 @@ const { name, subname, avatarFront, avatarBack, tltr, socials } =
 
   <h1 my-1.5>
     {name}
-    {subname && <font text="base fg-light"> ({subname})</font>}.
+    {subname && <font text="base fg-light"> ({subname})</font>}
   </h1>
 
   {
@@ -51,15 +51,29 @@ const { name, subname, avatarFront, avatarBack, tltr, socials } =
   }
 
   <Links socials={socials} />
+   <section>
+   <div>  <h2> Bio </h2>
 
-  <Content />
+    I am a Data science undergraduate in the school of <a href="https://inspiria.edu.in/degree-courses/school-of-computer-science/">Computer Science and Application</a> at <a href="https://makautwb.ac.in/">MAKAUT.</a> 
+    My current work  focuses on AI solutions for inventory,agriculture and services management. Generative AI and Agents are the other domains where i am side-kicking experiments, projects ,tools and research.
+      <p>
+        
+      </p>  
+   </div>
+    <div>
 
-  <section>
-    <h2>Pinned Projects</h2>
+
+        By the way, take a look at <a href="/projects">some things</a> I've built as DS undergard and indie developer, first featuring my <a href="https://portfolio.prabin.me">interactive portfolio </a>- a macos themed interactive portfolio showcasing my works and skills.
+    <h2>Pinned Projects <span text-base>(see the <a href="/projects">full list</a>)</span></h2>
+    </div>
     <div grid="~ cols-1 sm:cols-2 gap-2" py-2>
       {pinnedProjects.map((project) => (
         <Project client:load project={project} />
       ))}
     </div>
   </section>
+
+  <Content />
+
+ 
 </Layout>

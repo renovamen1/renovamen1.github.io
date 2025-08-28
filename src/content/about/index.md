@@ -29,18 +29,6 @@ socials:
 
 ---
 
-
-## Bio
-
-I am a Data science undergraduate in the school of [Computer Science and Application](https://inspiria.edu.in/degree-courses/school-of-computer-science/) at [MAKAUT](https://makautwb.ac.in/). My current work  focuses on AI solutions for inventory,agriculture and services management. Generative AI and Agents are the other domains where i am side-kicking experiments, projects ,tools and research.
-
-
-By the way, take a look at [some things](/projects) I've built as DS undergard and developer, first featuring my [interactive portfolio ](https://portfolio.prabin.me) - a macos themed interactive portfolio showcasing my works and skills.
-
-## Pinned Projects <span text-base>(see the <a href="/projects">full list</a>)</span>
-
-
-
 ## Pinned Publications <span text-base>(see the <a href="/publications">full list</a> or <a href="https://scholar.google.com/citations?user=RuW6xgMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)</span>
 
 :::paper[/public/img/publications/tokenflow-1.png]
@@ -81,6 +69,8 @@ Sushovan Gupta
 - _Renovamen_ is a Latin word means _renewal_ . <span text-base>(check <a  href="https://github.com/renovamen1"> Github </a>) </span>
 
 - love art, art Galleries, write poetry and i read whatever
+
+- wish travelling was free and ai do my laundry. 
 
 - Into Sports: play football, volleyball & with my life.
 
