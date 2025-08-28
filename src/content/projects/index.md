@@ -11,6 +11,7 @@ projects:
         - i-logos:unocss
         - i-logos:vitejs
       repo: renovamen1/macos-portfolio2
+      pinned: true
     - name: Movie Rec
       link: https://netflix.com
       desc: Movie recommendation based on emotion in Python

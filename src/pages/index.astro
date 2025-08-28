@@ -6,6 +6,13 @@ import Links from "@components/Links.astro";
 import FlipImage from "@components/FlipImage.astro";
 import Layout from "@layouts/Layout.astro";
 
+import { frontmatter as projectsFrontmatter } from "@content/projects/index.md";
+import Project from "@components/Project";
+
+// Collect all projects from all categories
+const allProjects = Object.values(projectsFrontmatter.projects).flat();
+const pinnedProjects = allProjects.filter((p) => p.pinned);
+
 interface Frontmatter {
   name: string;
   subname?: string;
@@ -46,4 +53,13 @@ const { name, subname, avatarFront, avatarBack, tltr, socials } =
   <Links socials={socials} />
 
   <Content />
+
+  <section>
+    <h2>Pinned Projects</h2>
+    <div grid="~ cols-1 sm:cols-2 gap-2" py-2>
+      {pinnedProjects.map((project) => (
+        <Project client:load project={project} />
+      ))}
+    </div>
+  </section>
 </Layout>

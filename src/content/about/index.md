@@ -1,7 +1,7 @@
 ---
 name: Prabin Thakur
 avatarFront: /img/ip.jpeg
-avatarBack: /img/me.jpg
+avatarBack: /img/me2.png
 tltr: Lost Deep Down the AI Rabbit Hole | Data Science | Agents | MLOPS
 socials:
   - icon: i-academicons:cv
