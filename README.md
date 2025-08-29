@@ -1,34 +1,10 @@
-# Hi! 🤔
+# Personal minimal portfolio
 
-This is my personal website, built with [Astro](https://astro.build/), [Solid](https://www.solidjs.com/) and [UnoCSS](https://github.com/antfu/unocss).
+Hey there.
 
+This is where I share my projects, thoughts, and experiments.  
+Everything here is straight from my desk—sometimes polished, sometimes just ideas in progress.
 
+Browse around, see what’s new, fork anything you like, or just say hello.
 
-Anyway, just have fun: [prabinthakur.xyz](https://prabinthakur.xyz/)
-
-
-&nbsp;
-
-## Usage
-
-Clone the repo and install dependencies:
-
-```bash
-pnpm i
-```
-
-Start developing the site:
-
-```bash
-pnpm dev
-```
-
-Build for production with minification:
-
-```bash
-pnpm build
-```
-
-## License
-
-[MIT](LICENSE)
+— renovamen1
