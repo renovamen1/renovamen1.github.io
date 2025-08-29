@@ -1,6 +1,4 @@
 ---
-
----
 import { slugify } from "@renovamen/utils";
 import PostList from "@layouts/PostList.astro";
 import { getPosts, getTags } from "@utils";
@@ -20,6 +18,6 @@ export const getStaticPaths = async () => {
     props: { tag }
   }));
 };
-
+---
 
 <PostList lang="zh" tag={tag} />

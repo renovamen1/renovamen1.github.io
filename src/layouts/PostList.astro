@@ -1,5 +1,4 @@
 ---
----
 import { slugify } from "@renovamen/utils";
 import { SITE } from "@config";
 import Layout from "@layouts/Layout.astro";
@@ -27,7 +26,7 @@ const tagURL = `${allURL}tags/`;
 const posts = await getPosts(lang);
 const { tags, numPostsPerTag } = getTags(posts);
 const sortedPostsByYear = getSortedPostsByYear(tag ? getPostsByTag(posts, tag) : posts);
-
+---
 
 <Layout title={`${title} - ${SITE.title}`} activePage={"posts"}>
   <h1>{title} <ToggleLang /></h1>
