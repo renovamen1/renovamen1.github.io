@@ -2,7 +2,7 @@
 projects:
   Websites / Tools:
     - name: Portfolio
-      link: https://thakurprabin.netlify.app
+      link: https://prabinthakur.vercel.app
       desc: An interactive portfolio website simulating macOS's GUI
       icon: i-ic:twotone-laptop-mac
       tech:
