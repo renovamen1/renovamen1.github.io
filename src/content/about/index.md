@@ -31,7 +31,7 @@ socials:
 
 ## Pinned Publications <span text-base>(see the <a href="/publications">full list</a> or <a href="https://scholar.google.com/citations?user=RuW6xgMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)</span>
 
-:::paper[/img/publications/tokenflow-1.png]
+:::paper[/img/publications/tokenflow1.png]
 **Waiter’s Tip Prediction using Machine Learning**
 
 <u>Prabin Thakur </u> , Chadup Tamnag, Aditi Gurung, Deepesh Rai,
