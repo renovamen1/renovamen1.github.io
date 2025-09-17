@@ -8,7 +8,7 @@ socials:
     link: /files/cv/en.pdf
   - icon: i-carbon:logo-youtube
     name: cv
-    link: /files/cv/cv.mp4
+    link: /files/cv/prabin.mp4
   - icon: "i-ion:mail-outline"
     link: "mailto:prabinthakur0101@gmail.com"
   - icon: i-eva:github-outline
@@ -31,7 +31,7 @@ socials:
 
 ## Pinned Publications <span text-base>(see the <a href="/publications">full list</a> or <a href="https://scholar.google.com/citations?user=RuW6xgMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>)</span>
 
-:::paper[/public/img/publications/tokenflow-1.png]
+:::paper[/img/publications/tokenflow-1.png]
 **Waiter’s Tip Prediction using Machine Learning**
 
 <u>Prabin Thakur </u> , Chadup Tamnag, Aditi Gurung, Deepesh Rai,
